@@ -15,6 +15,10 @@ Paleta de cores
     box-sizing: border-box;
 }
 
+body{
+        background-image: linear-gradient(to top, #8B953E, #B0B0BA);
+}
+
 body, html{
     background-color: #94A64B;
     height: 100vh;
