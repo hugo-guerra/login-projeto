@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+
+/*Tablet*/
 @media screen and (min-width: 768px) and (max-width: 992px) {
     body{
         background-image: linear-gradient(to top, #8B953E, #B0B0BA);
@@ -7,6 +9,7 @@
 
     section#login{
         width: 80vw;
+        height: 280px;
     }
     section#login > div#imagem{
         float: left;
@@ -26,6 +29,7 @@
 
     section#login{
         width: 950px;
+        height: 300px;
     }
     section#login > div#imagem{
         float: right;
